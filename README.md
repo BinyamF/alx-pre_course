@@ -1,2 +1,1 @@
-My first readme.
-This line of the file is updated from GITHUB.com interface.
+My first readme.GIT WEB GUI used for update.
